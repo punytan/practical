@@ -1,5 +1,9 @@
 Revision history for Perl extension practical
 
+0.03    Wed Apr  6 23:16:13 2011
+        - add documentation
+        - improved Makefile.PL
+
 0.02    Tue Mar  1 17:41:10 2011
         - improved testing stuff
 
