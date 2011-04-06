@@ -2,6 +2,8 @@ use inc::Module::Install;
 name 'practical';
 all_from 'lib/practical.pm';
 
+perl_version '5.010';
+
 # requires '';
 
 tests 't/*.t';
