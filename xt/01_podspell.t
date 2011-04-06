@@ -9,3 +9,4 @@ __DATA__
 punytan
 punytan@gmail.com
 practical
+CPAN
